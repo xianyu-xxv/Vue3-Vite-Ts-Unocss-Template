@@ -60,7 +60,7 @@ createApp(App).mount('#app')
 
 ## vscode插件
 
-![我的图片](20230224203732.png)
+![我的图片](https://github.com/xianyu-xxv/Vue3-Vite-Ts-Unocss-Template/blob/main/20230224203732.png)
 
 ## 样式查询地址
 
